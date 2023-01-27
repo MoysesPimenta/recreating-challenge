@@ -17,16 +17,12 @@ The habits app is and will be free for anyone that wishes to track their daily a
 
 <br>
 
-<p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Technologies
 
 For this project we used the bellow technologies:
 
 - HTML & CSS
-- JavaScript
 - Git & Github
 - Figma
 
@@ -34,11 +30,11 @@ For this project we used the bellow technologies:
 
 The Habits app is made for you to track your daily activities.
 
-- [Visit this project online](https://moysespimenta.github.io/Habits-tracker-app)
+- [Visit this project online](https://moysespimenta.github.io/recreating-challenge)
 
 ## 🔖 Layout
 
-You can view the layout of this project following [this link](https://www.figma.com/community/file/1195327109778210238). It is necessary to have a [Figma account](https://figma.com) to access it.
+You can view the layout of this project following [this link](https://www.figma.com/file/oYdfZLu9K7KihE1eZytSrV/Projeto01-Extra-(Copy)?node-id=17%3A16&t=U8EvMZ16bso3yLBs-0). It is necessary to have a [Figma account](https://figma.com) to access it.
 
 ## :memo: License
 
